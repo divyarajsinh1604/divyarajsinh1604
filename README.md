@@ -33,9 +33,9 @@
 * Understanding memory management, processes, and low-level behavior
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=divyarajsinh1604&show_icons=true&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=divyarajsinh1604&show_icons=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyarajsinh1604&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyarajsinh1604&layout=compact&cache_seconds=86400)
 
 ## 📫 Contact
 
